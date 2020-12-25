@@ -3,7 +3,7 @@ import random
 import sys
 import signal
 
-
+#comments to check git commit
 #user choses rock so this happens
 def rock(comp_choice):
     if comp_choice == 'PAPER':
